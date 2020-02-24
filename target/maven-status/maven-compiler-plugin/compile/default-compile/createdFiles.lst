@@ -1,0 +1,8 @@
+com\onlineworkers\models\User.class
+com\onlineworkers\models\Count.class
+com\onlineworkers\models\Likes.class
+com\onlineworkers\models\StatusDto.class
+com\onlineworkers\models\PostUserInformation.class
+com\onlineworkers\models\UserInformation.class
+com\onlineworkers\models\PostUserDto.class
+com\onlineworkers\models\Comments.class
